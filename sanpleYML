@@ -1,0 +1,12 @@
+--- 
+types: 
+  - 
+    name: "ITRS monitoring"
+    samplerRef: 
+      - "sampler ref"
+      - "sampler ref 2"
+  - 
+    name: "ITRS monitoring"
+    samplerRef: 
+      - "sampler ref"
+      - "sampler ref 2"
